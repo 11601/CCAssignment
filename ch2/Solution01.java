@@ -6,6 +6,15 @@ import java.util.LinkedList;
 
 
 
+class Node{
+	Node next;
+	int data;
+	
+	public Node(int d){
+		data = d;
+	}
+}
+
 public class Solution01 {
 
 	//We assume we are given the head node of the list
