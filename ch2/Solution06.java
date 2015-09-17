@@ -10,6 +10,7 @@ class Node{
 	public Node(int d){
 		data = d;
 	}
+}	
 
 
 public class Solution06 {
