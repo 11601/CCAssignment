@@ -1,3 +1,5 @@
+package ch1;
+
 import java.util.Arrays;
 
 //Problem: Given two strings, write a method to determine if one is a permutation of the other
